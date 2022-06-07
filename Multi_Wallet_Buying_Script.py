@@ -1,5 +1,9 @@
 ## Multi Wallet Buying Script v0.9 by LordKrueger / Twitter @42CryptoNft
 
+## Script is free to use, if you find errors or problems you can write them on my github. @42CryptoNft
+
+## If you make awesome wins and want to share something :-) here is my ETH Wallet 0x04dbb571bc7ab2af83d42d4e9efe70efcaf149b2
+
 ## Release Notes: v0.9
 ## - ContractAbi is now added automaticaly, only Contract adress has to be entered. Thanks @doyler
 ## - Further function has been implemented to directly Share Eth, wait defined Nr of Blocks and Mint, with one run of the script. Called "SaM"
